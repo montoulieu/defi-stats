@@ -11,3 +11,7 @@ body,
 #root {
   @apply h-full;
 }
+
+body {
+  @apply bg-gray-900;
+}
